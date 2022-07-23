@@ -1,0 +1,36 @@
+* {
+    font-family: "Tahoma", "Helvetica", sans-serif;
+    font-size: 16px;
+}
+
+img {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    background-color: #dcfff3;
+    padding: 15px;
+}
+
+h2 {
+    font-size: 26px;
+    text-align: center;
+    background-color: #f6e3ff;
+    padding: 12px;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+    background-color: #dee5fd;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+}
